@@ -1,0 +1,16 @@
+.clockAction {
+  background: #e2e2e2;
+  padding: 1rem 5rem 2rem;
+  margin-left: 1rem;
+  width: 600px;
+  border-radius: 0px 0px 5px 5px;
+}
+.clockAction button {
+  border: none;
+  background: #4f4f4f;
+  color: #e2e2e2;
+  padding: 0.4rem 1rem;
+  margin-right: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+}
